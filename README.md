@@ -73,13 +73,13 @@ Nepali OCR is a machine learning-powered tool designed to digitize handwritten a
 
 ## **Screenshots**
 **1. Home Page**  
-![Home Page](path-to-screenshot-home-page.png)  
+![Home Page](static\images\homepage.jpg)  
 
 **2. Image Upload**  
-![Image Upload](path-to-screenshot-upload.png)  
+![Image Upload](static\images\letterpage.jpg)  
 
 **3. Extracted Text**  
-![Extracted Text](path-to-screenshot-output.png)  
+![Extracted Text](static\images\wordupload.jpg)  
 
 ---
 
