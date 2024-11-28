@@ -98,11 +98,6 @@ We welcome contributions to enhance the features and performance of Nepali OCR.
 
 ---
 
-## **License**
-This project is licensed under the [MIT License](LICENSE).
-
----
-
 ## **Acknowledgments**
 - **Tesseract OCR** for text recognition.  
 - **TensorFlow/Keras** for the machine learning model.  
